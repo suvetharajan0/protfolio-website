@@ -5,13 +5,13 @@ A responsive personal portfolio website built using HTML, CSS, and JavaScript to
 
 Key Features:
 
-Fully responsive design for all devices
+✨Fully responsive design for all devices
 
-Interactive project gallery with links to GitHub repositories
+✨Interactive project gallery with links to GitHub repositories
 
-Smooth navigation and animations for a better user experience
+✨Smooth navigation and animations for a better user experience
 
-Integrated contact form for easy communication
+✨Integrated contact form for easy communication
 
 
 Technologies Used: HTML, CSS, JavaScript
